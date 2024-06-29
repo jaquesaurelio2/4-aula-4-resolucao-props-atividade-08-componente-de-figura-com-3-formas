@@ -1,0 +1,22 @@
+.triangle {
+  padding: 10%;
+  border-radius: 2%;
+  width: 10%;
+  box-shadow: inset 0 0 80px orange;
+  clip-path: polygon(50% 0, 100% 100%, 0% 100%);
+}
+
+.square {
+  width: 10%;
+  height: 150px;
+  width: 150px;
+  box-shadow: inset 0 0 80px orange;
+}
+
+.circle {
+  width: 10%;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  box-shadow: inset 0 0 80px orange;
+}
